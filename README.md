@@ -52,7 +52,10 @@ Inventory Auditor - Conducts periodic inventory  checks, inputs physical counts 
 5. Run Main.java to launch the application.
 
 ## 11. Sample Screenshots
-//placeholder
+<img width="1343" height="730" alt="SAMPLE SS 1" src="https://github.com/user-attachments/assets/239f3ca4-4c17-4898-a53e-38f6507701c2" />
+<img width="1354" height="721" alt="SAMPLE SS 2" src="https://github.com/user-attachments/assets/dab135d3-2079-4c16-a0f6-7da1ac1e7e57" />
+<img width="1365" height="722" alt="SAMPLE SS 3" src="https://github.com/user-attachments/assets/b4019614-8f9e-4132-9714-79eba773e27c" />
+
 
 ## 12. Known Limitations
 * The application runs locally as a desktop program and does not feature multi-branch cloud synchronization.
